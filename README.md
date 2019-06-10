@@ -10,14 +10,14 @@ Commands/Arguments:
 node app.js
 
 Add a note:
-add --title="<note title here>" --body"<note body here>"
+add --title="[note title here]" --body"[note body here]"
 
 Remove a note:
-remove --title="<note title>"
+remove --title="[note title]"
 
 List notes:
 list
 
 Read individual note:
-read --title="<note title>"
+read --title="[note title]"
 
